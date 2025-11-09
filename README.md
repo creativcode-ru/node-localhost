@@ -50,7 +50,7 @@ node server
 ### заказчик:
 Спасибо за переход по ссылкам:
 
-*  [Путеводитель "Из точки А в точку Б❤"](https://abtur.me/)
+*  [Путеводитель "Из точки А в точку Б❤"](https://abtur.me/) 
 *  [в Ютубе](https://www.youtube.com/@go.a.b)
 *  [в Рутубе](https://rutube.ru/channel/28528260/)
 *  [Инстаграм](https://www.instagram.com/go.a.b)
